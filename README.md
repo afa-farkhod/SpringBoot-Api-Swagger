@@ -97,6 +97,13 @@ spring.mvc.pathmatch.matching-strategy=ant_path_matcher
  	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/0e80bd12-2b28-47cb-b5bf-f82ce0b69926" alt="Image">
   </p>
 
+- We can see the api response:
+
+<p align="center">
+ 	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/f3749122-b704-4eab-99f0-a28f95eefc72" alt="Image">
+  </p>
+
+
 
 
   
