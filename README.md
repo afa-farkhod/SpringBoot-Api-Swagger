@@ -73,5 +73,11 @@ spring.mvc.pathmatch.matching-strategy=ant_path_matcher
  	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/b24c4784-6dfa-44be-8d1b-70f4d085ee05" alt="Image">
   </p>
 
+- We check for table creation in the DB:
+
+  <p align="center">
+ 	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/57b181eb-0123-4e02-80d7-eaff2d3d6638" alt="Image">
+  </p>
+
   
   
