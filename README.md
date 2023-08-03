@@ -103,6 +103,14 @@ spring.mvc.pathmatch.matching-strategy=ant_path_matcher
  	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/f3749122-b704-4eab-99f0-a28f95eefc72" alt="Image">
   </p>
 
+- We can also check the name registration in to DB:
+
+<p align="center">
+ 	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/f61d6ac1-e898-4b83-a224-d7260a3402f3" alt="Image">
+  </p>
+
+
+
 
 
 
