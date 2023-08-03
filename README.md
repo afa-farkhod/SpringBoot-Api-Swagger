@@ -85,7 +85,7 @@ spring.mvc.pathmatch.matching-strategy=ant_path_matcher
  	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/9f87b4d8-90af-440a-8400-e01f99cbef37" alt="Image">
   </p>
 
-  - In Swagger Api documentation we can see our created APIs:
+- In Swagger Api documentation we can see our created APIs:
  
 <p align="center">
  	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/461199b5-343b-43b5-a5d4-bab6a8337a69" alt="Image">
