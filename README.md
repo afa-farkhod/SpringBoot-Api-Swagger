@@ -79,5 +79,11 @@ spring.mvc.pathmatch.matching-strategy=ant_path_matcher
  	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/57b181eb-0123-4e02-80d7-eaff2d3d6638" alt="Image">
   </p>
 
+- Then in browser we type `localhost:8080/swagger-ui.html` which opens the Swagger Api documentation:
+
+   <p align="center">
+ 	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/9ab7bb26-aa80-4fe9-a7f7-7cb8f81e1891" alt="Image">
+  </p>
+  
   
   
