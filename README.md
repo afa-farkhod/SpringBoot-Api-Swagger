@@ -17,23 +17,22 @@ Spring Boot api implementation with Swagger documentation
 
   ```
   dependencies {
-//	spring boot
+   //	spring boot
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
-
-//	swagger
+ 
+  //	swagger
 	implementation 'io.springfox:springfox-swagger2:2.9.2'
 	implementation 'io.springfox:springfox-swagger-ui:2.9.2'
 
-//	lombok
+  //	lombok
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
 
-//	DB
+  //	DB
 	runtimeOnly 'com.mysql:mysql-connector-j'
-
-}
-
+  }
+ 
   ```
   
