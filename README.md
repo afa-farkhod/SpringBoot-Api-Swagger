@@ -49,5 +49,22 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
 spring.mvc.pathmatch.matching-strategy=ant_path_matcher
 
 ```
+
+- Then we make swagger configuration class `SwaggerConfiguration.java`:
+
+  ```
+  @Configuration
+  @EnableSwagger2
+  public class SwaggerConfiguration {
+    @Bean
+    public Docket api(){
+        return new Docket(DocumentationType.SWAGGER_2)
+                .select()
+                .apis(RequestHandlerSelectors.basePackage("com.example.swaggerdemoapi3.controller"))
+                .paths(regex("/.*"))
+                .build();
+    }
+  }
+  ```
   
   
