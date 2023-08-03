@@ -3,5 +3,5 @@ Spring Boot api implementation with Swagger documentation
 
 ## [Swagger](https://swagger.io/)
 
-- Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset. Find out how Swagger can help you design and document your APIs at scale.
+- The design and documentation platform for teams and individuals working with the OpenAPI Specification.
 
