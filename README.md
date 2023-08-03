@@ -91,5 +91,13 @@ spring.mvc.pathmatch.matching-strategy=ant_path_matcher
  	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/461199b5-343b-43b5-a5d4-bab6a8337a69" alt="Image">
   </p>
 
+- We give sample data to add student name in to DB then we press `Execute` button which sends resquest to api:
+
+<p align="center">
+ 	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/0e80bd12-2b28-47cb-b5bf-f82ce0b69926" alt="Image">
+  </p>
+
+
+
   
   
