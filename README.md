@@ -35,4 +35,19 @@ Spring Boot api implementation with Swagger documentation
   }
  
   ```
+- Following is the Database configuration, as the DB MySQL is used, check the `application.properties` file:
+
+```
+#DB configuration
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.url = jdbc:mysql://localhost:3306/mystore
+spring.datasource.username = username
+spring.datasource.password = password
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
+spring.mvc.pathmatch.matching-strategy=ant_path_matcher
+
+```
+  
   
