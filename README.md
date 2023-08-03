@@ -66,5 +66,12 @@ spring.mvc.pathmatch.matching-strategy=ant_path_matcher
     }
   }
   ```
+
+- After implementation, we run the Spring application:
+  
+  <p align="center">
+ 	 <img src="https://github.com/af4092/SpringBoot-Api-Swagger/assets/24220136/b24c4784-6dfa-44be-8d1b-70f4d085ee05" alt="Image">
+  </p>
+
   
   
